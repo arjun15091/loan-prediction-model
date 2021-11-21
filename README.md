@@ -50,23 +50,14 @@ The following shows the pseudo code for the proposed loan prediction method
 1. Load the data
 2. Determine the training and testing data
 3. Data cleaning and pre-processing.
-<br>
 a) Fill the missing values with mean values regarding numerical values.
-<br>
 b) Fill the missing values with mode values regarding categorical variables.
-<br>
 c) Outlier treatment.
-<br>
 4. Apply the modelling for prediction
-<br>
 a) Removing the load identifier
-<br>
 b) Create the target variable (based on the requirement).In this approach, target variable is loan-status
-<br>
 c) Create a dummy variable for categorical variable (if required) and split the training and testing data for validation.
-<br>
 d) Apply the model: NB method, SVM method
-<br>
 5. Determine the accuracy followed by confusion Matrix.
 
 ## Flow Chart
