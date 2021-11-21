@@ -27,8 +27,30 @@ Classification
 <br>
 Result (output)
 
-## System Architecture
-![dsproject](https://user-images.githubusercontent.com/91031609/142772128-70961bab-33eb-4c4d-b2c0-c36a2ee1e11d.PNG)
+## Proposed Algorithm
+The following shows the pseudo code for the proposed loan prediction method
+<br>
+1. Load the data
+<br>
+2. Determine the training and testing data
+<br>
+3. Data cleaning and pre-processing.
+<br>
+a) Fill the missing values with mean values regarding numerical values.
+<br>
+b) Fill the missing values with mode values regarding categorical variables.c) Outlier treatment.
+<br>
+4. Apply the modelling for prediction
+<br>
+a) Removing the load identifier
+<br>
+b) Create the target variable (based on the requirement).In this approach, target variable is loan-status
+<br>
+c) Create a dummy variable for categorical variable (if required) and split the training and testing data for validation.
+<br>
+d) Apply the model: NB method, SVM method
+<br>
+5. Determine the accuracy followed by confusion Matrix.
 
 ## Flow Chart
 ![dsproject](https://user-images.githubusercontent.com/91031609/142772221-61768df9-108d-423d-95e0-38745a612cb0.PNG)
