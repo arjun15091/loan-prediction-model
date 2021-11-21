@@ -56,12 +56,7 @@ d) Apply the model: NB method, SVM method
 ## Flow Chart
 ![dsproject](https://user-images.githubusercontent.com/91031609/142772221-61768df9-108d-423d-95e0-38745a612cb0.PNG)
 
-## Technologies/Libraries Used
-Flask
-Jinja2
-numpy
-scipy
-scikit-learn
-matplotlib
-pandas
-Loan Prediction Model powered by Data Science and Machine Learning which is deployed on Heroku through Flask
+## Use Case Diagram
+![image](https://user-images.githubusercontent.com/91031609/142772777-559d0c51-fc2c-4ddf-b521-59c4ae037b71.png)
+
+
