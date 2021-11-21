@@ -26,8 +26,12 @@ Model Evaluation
 Classification
 <br>
 Result (output)
-    
+
+## System Architecture
+![dsproject](https://user-images.githubusercontent.com/91031609/142772128-70961bab-33eb-4c4d-b2c0-c36a2ee1e11d.PNG)
+
 ## Flow Chart
+![dsproject](https://user-images.githubusercontent.com/91031609/142772221-61768df9-108d-423d-95e0-38745a612cb0.PNG)
 
 ## Technologies/Libraries Used
 Flask
