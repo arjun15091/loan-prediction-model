@@ -29,6 +29,7 @@ Result (output)
 
 ## Proposed Algorithm
 The following shows the pseudo code for the proposed loan prediction method
+
 1. Load the data
 <br>
 2. Determine the training and testing data
