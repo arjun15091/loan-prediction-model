@@ -44,15 +44,11 @@ The basis for NB model is Bayes Theorem (BT), where events are mutually exclusiv
 9. Loan Amount
 10. Credit History
 11. Loan Status
-12. 
 ## Proposed Algorithm
 The following shows the pseudo code for the proposed loan prediction method
 1. Load the data
-<br>
 2. Determine the training and testing data
-<br>
 3. Data cleaning and pre-processing.
-<br>
 a) Fill the missing values with mean values regarding numerical values.
 <br>
 b) Fill the missing values with mode values regarding categorical variables.
