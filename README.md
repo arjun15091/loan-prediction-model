@@ -31,14 +31,15 @@ Result (output)
 The following shows the pseudo code for the proposed loan prediction method
 <br>
 1. Load the data
-<br>
 2. Determine the training and testing data
 <br>
 3. Data cleaning and pre-processing.
 <br>
 a) Fill the missing values with mean values regarding numerical values.
 <br>
-b) Fill the missing values with mode values regarding categorical variables.c) Outlier treatment.
+b) Fill the missing values with mode values regarding categorical variables.
+<br>
+c) Outlier treatment.
 <br>
 4. Apply the modelling for prediction
 <br>
